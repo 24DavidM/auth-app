@@ -1,0 +1,3 @@
+[submodule "web_reset_password"]
+	path = web_reset_password
+	url = git@github-epn:24DavidM/web-reset.git
